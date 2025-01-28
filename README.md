@@ -1,0 +1,2 @@
+# DieZeeL
+Discord Bot
